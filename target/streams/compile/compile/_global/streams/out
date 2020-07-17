@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\龍\Desktop\play_blog\app\controllers\HelloController.scala:6:31: trait Controller in package mvc is deprecated: Your controller should extend AbstractController, BaseController, or InjectedController instead.[0m
+[0m[[0m[33mwarn[0m] [0m[0mclass HelloController extends Controller {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\龍\Desktop\play_blog\app\controllers\HelloController.scala:11:5: object Action in package mvc is deprecated: Inject an ActionBuilder (e.g. DefaultActionBuilder) or extend BaseController/AbstractController/InjectedController[0m
+[0m[[0m[33mwarn[0m] [0m[0m    Action { implicit request =>[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m

@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\龍\Desktop\play_blog\conf\application.conf,C:\Users\龍\Desktop\play_blog\target\scala-2.11\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\龍\Desktop\play_blog\conf\logback.xml,C:\Users\龍\Desktop\play_blog\target\scala-2.11\classes\logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\龍\Desktop\play_blog\conf\messages,C:\Users\龍\Desktop\play_blog\target\scala-2.11\classes\messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\龍\Desktop\play_blog\conf\messages.ja,C:\Users\龍\Desktop\play_blog\target\scala-2.11\classes\messages.ja)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\龍\Desktop\play_blog\conf\routes,C:\Users\龍\Desktop\play_blog\target\scala-2.11\classes\routes)[0m
